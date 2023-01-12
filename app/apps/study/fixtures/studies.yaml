@@ -1,0 +1,12 @@
+- model: study.study
+  pk: 0d9e00bd-2a80-4417-a291-0f226f6507a5
+  fields:
+    name: Study B
+- model: study.study
+  pk: 4718db60-9066-42d6-aa91-ea9b1bd05974
+  fields:
+    name: Study A
+- model: study.study
+  pk: d0e205a2-4913-4a6c-8dc2-e65f202b1fbe
+  fields:
+    name: Study C

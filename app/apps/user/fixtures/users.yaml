@@ -1,0 +1,60 @@
+- model: auth.user
+  pk: 1
+  fields:
+    password: pbkdf2_sha256$390000$tNyvN8rmJODk0B601rAVQv$YGeTdwszIr6lk+1D05R9KZE2MHnN4uqR6rj/l68u8SQ=
+    last_login: 2022-12-12 12:39:51.780190+00:00
+    is_superuser: true
+    username: superadmin
+    first_name: ''
+    last_name: ''
+    email: nobody@umed.io
+    is_staff: true
+    is_active: true
+    date_joined: 2022-12-12 12:39:25.926884+00:00
+    groups: []
+    user_permissions: []
+- model: auth.user
+  pk: 2
+  fields:
+    password: pbkdf2_sha256$390000$CV8hOqOxEutD65YBJ17b7z$ekLNq6Bdw4mL+AfFQGZ4WqtIlTgjW9e8Q/QcnB1Ea/U=
+    last_login: null
+    is_superuser: false
+    username: UserOne
+    first_name: User
+    last_name: One
+    email: user.one@umed.io
+    is_staff: false
+    is_active: true
+    date_joined: 2022-12-12 12:45:28+00:00
+    groups: []
+    user_permissions: []
+- model: auth.user
+  pk: 3
+  fields:
+    password: pbkdf2_sha256$390000$Cj8eAc9TGQ01pRUX2DXEb5$MOzIfMGAnNn3Ne+EP6wRikwh7bVMU7LmXeQF5MqGfig=
+    last_login: null
+    is_superuser: false
+    username: UserTwo
+    first_name: User
+    last_name: Two
+    email: user.two@umed.io
+    is_staff: false
+    is_active: true
+    date_joined: 2022-12-12 12:45:37+00:00
+    groups: []
+    user_permissions: []
+- model: auth.user
+  pk: 4
+  fields:
+    password: pbkdf2_sha256$390000$0GkQ8WVUK3NnIrxmnxavys$wkLLezIqJWio/9Au0vpOCCwj8tVbRShSLhCqOskbEXQ=
+    last_login: null
+    is_superuser: false
+    username: UserThree
+    first_name: User
+    last_name: Three
+    email: user.three@umed.io
+    is_staff: false
+    is_active: true
+    date_joined: 2022-12-12 12:47:24+00:00
+    groups: []
+    user_permissions: []

@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "engineer-test"
+version = "0.1.0"
+description = ""
+authors = ["Glen Swinfield <1146295+glenswinfield@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+Django = "^4.1.4"
+PyYAML = "^6.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.2.0"
+pytest-django = "^4.5.2"
+factory-boy = "^3.2.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

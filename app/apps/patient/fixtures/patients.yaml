@@ -1,0 +1,21 @@
+- model: patient.patient
+  pk: 31672828-cce5-4a2d-a42d-93d5e6b9c43c
+  fields:
+    user: 4
+    study: d0e205a2-4913-4a6c-8dc2-e65f202b1fbe
+    status: 0
+    cancelled: 0
+- model: patient.patient
+  pk: 40c25739-50aa-44b1-a3ab-25e61d4cc529
+  fields:
+    user: 3
+    study: 0d9e00bd-2a80-4417-a291-0f226f6507a5
+    status: 0
+    cancelled: 0
+- model: patient.patient
+  pk: debac61e-a9c6-4d5e-8bfe-954a04cf6139
+  fields:
+    user: 2
+    study: 4718db60-9066-42d6-aa91-ea9b1bd05974
+    status: 0
+    cancelled: 0

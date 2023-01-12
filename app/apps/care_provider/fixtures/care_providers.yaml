@@ -1,0 +1,18 @@
+- model: care_provider.careprovider
+  pk: 3314e20b-e89e-4263-a9ba-4aa9efd6ecf5
+  fields:
+    name: Smith's Surgery
+    ods: ABCD001
+    contact: Dr Smith
+- model: care_provider.careprovider
+  pk: 4ecb631e-93eb-4b21-bef2-5888d61596b0
+  fields:
+    name: Patel's Surgery
+    ods: ERF00003
+    contact: Dr Patel
+- model: care_provider.careprovider
+  pk: 707390c1-90dc-4148-b2a5-f1d9cf214111
+  fields:
+    name: Jones's Surgery
+    ods: EFJ0002
+    contact: Dr Jones
